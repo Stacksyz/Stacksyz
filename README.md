@@ -18,7 +18,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="mailto:thedevmonke@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/thedevmonke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/ThePigeonKings" target="blank"><img align="center" src="https://img.shields.io/badge/ThePigeonKings-100000?style=for-the-badge&logo=github&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="httpss://discord.com/users/847213179142799452"><img align="center" src="https://img.shields.io/badge/The%20Pigeon%20King%230086-blue?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:thedevmonke@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/thedevmonke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/ThePigeonKings" target="blank"><img align="center" src="https://img.shields.io/badge/ThePigeonKings-100000?style=for-the-badge&logo=github&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="httpss://discord.com/users/847213179142799452"><img align="center" src="https://img.shields.io/badge/Pigeon%236969-blue?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
   
 <Br>
