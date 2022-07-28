@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/ThePigeonKings">ThePigeonKings<a></h1>
+<h1 align="center">I'm <a href="https://github.com/MrPijon">MrPijon<a></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -18,7 +18,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="mailto:thedevmonke@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/thedevmonke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/ThePigeonKings" target="blank"><img align="center" src="https://img.shields.io/badge/ThePigeonKings-100000?style=for-the-badge&logo=github&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="httpss://discord.com/users/847213179142799452"><img align="center" src="https://img.shields.io/badge/Pigeon%236969-blue?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:thedevmonke@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/thedevmonke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/MrPijon" target="blank"><img align="center" src="https://img.shields.io/badge/MrPijon-100000?style=for-the-badge&logo=github&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="httpss://discord.com/users/847213179142799452"><img align="center" src="https://img.shields.io/badge/Pigeon%236969-blue?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -27,7 +27,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![ThePigeonKings's github stats](https://github-readme-stats.vercel.app/api?username=ThePigeonKings&show_icons=true&theme=merko)](https://github.com/ThePigeonKings/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePigeonKings&layout=compact&theme=merko)](https://github.com/ThePigeonKings/github-readme-stats)
+[![MrPijon's github stats](https://github-readme-stats.vercel.app/api?username=MrPijon&show_icons=true&theme=merko)](https://github.com/MrPijon/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPijon&layout=compact&theme=merko)](https://github.com/MrPijon/github-readme-stats)
 
  
 <Br>
