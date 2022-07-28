@@ -28,23 +28,8 @@
 <Br>
   
 [![MrPijon's github stats](https://github-readme-stats.vercel.app/api?username=MrPijon&show_icons=true&theme=merko)](https://github.com/MrPijon/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPijon&layout=compact&theme=merko)](https://github.com/MrPijon/github-readme-stats)
-
- 
-<Br>
-<hr>
-<Br>
-<h1>A Little Joke at the End! 🤣</h1>
-<Br>
-  
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
-  
-  
-  
-<Br>
-<hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
-<Br>
 
 ------
-Last Edited on: 28/06/2022
+Last Edited on: 28/07/2022
