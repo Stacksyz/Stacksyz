@@ -1,35 +1,35 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
-<hr>
-<h1 align="center">I'm <a href="https://github.com/MrPijon">MrPijon<a></h1>
-<Br>
-<h1>About Me! 😎</h1>
+  <img src ="https://gpvc.arturio.dev/z38k">
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small Discord projects.
-- 🌱: I’m currently learning Java & TypeScript. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 😄  Pronouns: He/Him
-- ⚡  Fun fact: I play the Piano! 🎹
-  
-<hr>
-<Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="mailto:thedevmonke@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/thedevmonke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/MrPijon" target="blank"><img align="center" src="https://img.shields.io/badge/MrPijon-100000?style=for-the-badge&logo=github&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="httpss://discord.com/users/847213179142799452"><img align="center" src="https://img.shields.io/badge/Pigeon%230420-blue?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<table>
+  <tr>
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+    <td>
+        <ul>
+          <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/tahanima-chowdhury/">z38k</a></li>
+          <li><strong>Occupation:</strong> <em>Discord Bot Developer</em></li>
+          <li><strong>Hobbies:</strong> Watching anime, listening to music and solving programming problems</li>
+        </ul>
+      <h4><ins>Notable Open Source Contributions:</ins></h4>
+      <ul>
+        <!--<li><a href="https://github.com/datafaker-net/datafaker"><em>SOON</em></a> - Added fake data providers (<a href="https://github.com/datafaker-net/datafaker/pull/155">Tea</a>, <a href="https://github.com/datafaker-net/datafaker/pull/156">Camera</a>, <a href="https://github.com/datafaker-net/datafaker/pull/165">House</a>, <a href="https://github.com/datafaker-net/datafaker/pull/170">Verb</a>, <a href="https://github.com/datafaker-net/datafaker/pull/171">Famous Last Words</a>, <a href="https://github.com/datafaker-net/datafaker/pull/191">Greek Philosophers</a>, <a href="https://github.com/datafaker-net/datafaker/pull/194">Measurement</a>, <a href="https://github.com/datafaker-net/datafaker/pull/197">Big Bang Theory</a>, <a href="https://github.com/datafaker-net/datafaker/pull/204">Departed</a> and <a href="https://github.com/datafaker-net/datafaker/pull/208">Movie</a>)</li>-->
+      </ul>
+        <h4><ins>Connect with me:</ins></h4>
+          <a href="https://z38k.cf/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+          <a href="https://discord.gg/uFbq3Ecba7"><img src="https://img.icons8.com/dusk/40/000000/discord.png"/></a>
+    </td>
+  </tr>
+</table>
+
 </p>
-  
-<Br>
 <hr>
 <Br>
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![MrPijon's github stats](https://github-readme-stats.vercel.app/api?username=MrPijon&show_icons=true&theme=merko)](https://github.com/MrPijon/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPijon&layout=compact&theme=merko)](https://github.com/MrPijon/github-readme-stats)
+[![z38k's github stats](https://github-readme-stats.vercel.app/api?username=z38k&show_icons=true&theme=merko)](https://github.com/z38k/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z38k&layout=compact&theme=merko)](https://github.com/z38k/github-readme-stats)
 <Br>
 <h1>Thank You! 🤵 </h1>
 
 ------
-Last Edited on: 28/07/2022
+Last Edited on: 14/12/2022 (dd/mm/yyyy)
