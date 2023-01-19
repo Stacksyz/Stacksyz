@@ -1,13 +1,13 @@
 <p align="center">
-  <img src ="https://gpvc.arturio.dev/z38k">
+  <img src ="https://gpvc.arturio.dev/Stacksyz">
 
 <table>
   <tr>
     <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
     <td>
         <ul>
-          <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/tahanima-chowdhury/">z38k</a></li>
-          <li><strong>Occupation:</strong> <em>Discord Bot Developer</em></li>
+          <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/tahanima-chowdhury/">Stacksyz</a></li>
+          <li><strong>Occupation:</strong> <em>Discord Bot Dev, Skript Dev, Website Dev</em></li>
           <li><strong>Hobbies:</strong> Watching anime, listening to music and solving programming problems</li>
         </ul>
       <h4><ins>Notable Open Source Contributions:</ins></h4>
@@ -16,7 +16,7 @@
       </ul>
         <h4><ins>Connect with me:</ins></h4>
           <a href="https://z38k.cf/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-          <a href="https://discord.gg/uFbq3Ecba7"><img src="https://img.icons8.com/dusk/40/000000/discord.png"/></a>
+          <a href="[https://discord.gg/uFbq3Ecba7](https://discord.gg/nfUkeNZ72K)"><img src="https://img.icons8.com/dusk/40/000000/discord.png"/></a>
     </td>
   </tr>
 </table>
@@ -27,9 +27,9 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![z38k's github stats](https://github-readme-stats.vercel.app/api?username=z38k&show_icons=true&theme=merko)](https://github.com/z38k/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z38k&layout=compact&theme=merko)](https://github.com/z38k/github-readme-stats)
+[![Stacksyz's github stats](https://github-readme-stats.vercel.app/api?username=Stacksyz&show_icons=true&theme=merko)](https://github.com/Stacksyz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacksyz&layout=compact&theme=merko)](https://github.com/Stacksyz/github-readme-stats)
 <Br>
 <h1>Thank You! 🤵 </h1>
 
 ------
-Last Edited on: 14/12/2022 (dd/mm/yyyy)
+Last Edited on: 1/19/2023 (mm/dd/yyyy)
