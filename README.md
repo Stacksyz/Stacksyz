@@ -6,7 +6,7 @@
     <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
     <td>
         <ul>
-          <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/tahanima-chowdhury/">Stacksyz</a></li>
+          <li><strong>Name:</strong> <a href="#">Stacksyz</a></li>
           <li><strong>Occupation:</strong> <em>Discord Bot Dev, Skript Dev, Website Dev</em></li>
           <li><strong>Hobbies:</strong> Watching anime, listening to music and solving programming problems</li>
         </ul>
@@ -15,7 +15,7 @@
         <!--<li><a href="https://github.com/datafaker-net/datafaker"><em>SOON</em></a> - Added fake data providers (<a href="https://github.com/datafaker-net/datafaker/pull/155">Tea</a>, <a href="https://github.com/datafaker-net/datafaker/pull/156">Camera</a>, <a href="https://github.com/datafaker-net/datafaker/pull/165">House</a>, <a href="https://github.com/datafaker-net/datafaker/pull/170">Verb</a>, <a href="https://github.com/datafaker-net/datafaker/pull/171">Famous Last Words</a>, <a href="https://github.com/datafaker-net/datafaker/pull/191">Greek Philosophers</a>, <a href="https://github.com/datafaker-net/datafaker/pull/194">Measurement</a>, <a href="https://github.com/datafaker-net/datafaker/pull/197">Big Bang Theory</a>, <a href="https://github.com/datafaker-net/datafaker/pull/204">Departed</a> and <a href="https://github.com/datafaker-net/datafaker/pull/208">Movie</a>)</li>-->
       </ul>
         <h4><ins>Connect with me:</ins></h4>
-          <a href="https://z38k.cf/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+          <a href="#"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
           <a href="[https://discord.gg/uFbq3Ecba7](https://discord.gg/nfUkeNZ72K)"><img src="https://img.icons8.com/dusk/40/000000/discord.png"/></a>
     </td>
   </tr>
