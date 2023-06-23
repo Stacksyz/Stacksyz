@@ -1,35 +1,24 @@
-<p align="center">
-  <img src ="https://gpvc.arturio.dev/Stacksyz">
+[![]()](https://pigeonclient.web.app/)<!-- If you want the template for my gif, email me! -->
 
-<table>
-  <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
-    <td>
-        <ul>
-          <li><strong>Name:</strong> <a href="#">Stacksyz</a></li>
-          <li><strong>Occupation:</strong> <em>Discord Bot Dev, Skript Dev, Website Dev</em></li>
-          <li><strong>Hobbies:</strong> Watching anime, listening to music and solving programming problems</li>
-        </ul>
-      <h4><ins>Notable Open Source Contributions:</ins></h4>
-      <ul>
-        <!--<li><a href="https://github.com/datafaker-net/datafaker"><em>SOON</em></a> - Added fake data providers (<a href="https://github.com/datafaker-net/datafaker/pull/155">Tea</a>, <a href="https://github.com/datafaker-net/datafaker/pull/156">Camera</a>, <a href="https://github.com/datafaker-net/datafaker/pull/165">House</a>, <a href="https://github.com/datafaker-net/datafaker/pull/170">Verb</a>, <a href="https://github.com/datafaker-net/datafaker/pull/171">Famous Last Words</a>, <a href="https://github.com/datafaker-net/datafaker/pull/191">Greek Philosophers</a>, <a href="https://github.com/datafaker-net/datafaker/pull/194">Measurement</a>, <a href="https://github.com/datafaker-net/datafaker/pull/197">Big Bang Theory</a>, <a href="https://github.com/datafaker-net/datafaker/pull/204">Departed</a> and <a href="https://github.com/datafaker-net/datafaker/pull/208">Movie</a>)</li>-->
-      </ul>
-        <h4><ins>Connect with me:</ins></h4>
-          <a href="#"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-          <a href="[https://discord.gg/uFbq3Ecba7](https://discord.gg/nfUkeNZ72K)"><img src="https://img.icons8.com/dusk/40/000000/discord.png"/></a>
-    </td>
-  </tr>
-</table>
+### Languages
 
-</p>
-<hr>
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Stacksyz's github stats](https://github-readme-stats.vercel.app/api?username=Stacksyz&show_icons=true&theme=merko)](https://github.com/Stacksyz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacksyz&layout=compact&theme=merko)](https://github.com/Stacksyz/github-readme-stats)
-<Br>
-<h1>Thank You! 🤵 </h1>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Discord.js](https://img.shields.io/badge/-Discord.js-000?logo=discord&logoColor=blue)
 
-------
-Last Edited on: 1/19/2023 (mm/dd/yyyy)
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/Stacksyz/v2)
+[![](https://img.shields.io/badge/-🦠%20Minecraft%20Client-000)](https://github.com/Stacksyz/Pigeon-Client)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
