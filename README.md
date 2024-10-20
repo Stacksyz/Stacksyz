@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **stacksyz@gmail.com or Discord: Stacksyz#0**
 
+- I also love playing Mlum, a minecraft prison escape server.
+
 - ⚡ Fun fact **I like motorcycles**
 
 <h3 align="left">Connect with me:</h3>
