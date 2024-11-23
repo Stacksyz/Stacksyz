@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stacksyz" target="blank"><img src="https://img.shields.io/twitter/follow/stacksyz?logo=twitter&style=for-the-badge" alt="stacksyz" /></a> </p>
 
-- 🔭 I’m currently working on [Moony](https://github.com/stacksyz/moony)
+- 🔭 I’m currently working on [ZenList](https://github.com/stacksyz/ZenList)
 
 - 👨‍💻 All of my projects are available at [https://stacksyz.is-a.dev/projects.html](https://stacksyz.is-a.dev/projects.html)
 
