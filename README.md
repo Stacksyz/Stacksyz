@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **discord.js,**
 
-- 📫 How to reach me **stacksyz@gmail.com or Discord: Stacksyz#0**
+- 📫 How to reach me  **Discord: Stacksyz#0**
 
 - I also love playing Mlum, a minecraft prison escape server.
 
