@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **discord.js,**
 
-- 📫 How to reach me  **Discord: .sqgd#0**
-
-- I also love playing Mlum, a minecraft prison escape server.
+- 📫 How to reach me  **Discord: stacksyz**
 
 - ⚡ Fun fact **I like motorcycles**
 
@@ -23,11 +21,8 @@
 <p align="left">
 <a href="https://codepen.io/stacksyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="stacksyz" height="30" width="40" /></a>
 <a href="https://dev.to/stacksyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stacksyz" height="30" width="40" /></a>
-<a href="https://twitter.com/stacksyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stacksyz" height="30" width="40" /></a>
+<a href="https://twitter.com/blushytomboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stacksyz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17750545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17750545" height="30" width="40" /></a>
-<a href="https://instagram.com/gileraemil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gileraemil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stacksyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stacksyz" height="30" width="40" /></a>
-<a href="https://discord.gg/6g5YyUzVGG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6g5YyUzVGG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
